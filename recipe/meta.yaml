@@ -1,5 +1,5 @@
 {% set name = "nettrustscore" %}
-{% set version = "1.0.1" %}
+{% set version = "2.0.0" %}
 {% set python_min = "3.9" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/yaniker/nettrustscore-python/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: a5b2f4ef0db1372da13b3773ae83bef7465a53b98315865363ff717a9f6821a2
+  sha256: 9a79e60cb03966155d26efadd4636f6fe670402ebd93bb45cf4bfc9ce64b50a4
 
 build:
   noarch: python

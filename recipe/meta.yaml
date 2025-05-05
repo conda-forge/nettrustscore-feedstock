@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/yaniker/nettrustscore-python/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: e89818109837d7b0a5bc1c625c3d3aff1db31707cfaaf038e1b32a4d4104961d
+  sha256: cf4052cab857823400daa920d156ae72f7b855d42b008ce49fa3290846a7eee0
 
 build:
   noarch: python
